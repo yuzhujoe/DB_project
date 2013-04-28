@@ -1,0 +1,127 @@
+﻿Build started 2013/4/28 15:46:31.
+     1>Project "C:\Users\joey\Desktop\c++\yuzhu_isaac_UI\yuzhu_isaac_UI\yuzhu_isaac_UI.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Debug\yuzhu_isaac_UI.unsuccessfulbuild".
+       GenerateTargetFrameworkMonikerAttribute:
+       Skipping target "GenerateTargetFrameworkMonikerAttribute" because all output files are up-to-date with respect to the input files.
+       ClCompile:
+         All outputs are up-to-date.
+         D:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /AI"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0" /Zi /clr:pure /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\yuzhu_isaac_UI.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /TP /FU"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Core.dll" /FU"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Data.dll" /FU"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Data.OracleClient.dll" /FU"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.dll" /FU"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Drawing.dll" /FU"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Windows.Forms.dll" /FU"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Xml.dll" /analyze- /errorReport:prompt LogIn.cpp userMenu.cpp yuzhu_isaac_UI.cpp /clr:nostdlib 
+         LogIn.cpp
+     1>c:\users\joey\desktop\c++\yuzhu_isaac_ui\yuzhu_isaac_ui\userMenu.h(26): warning C4947: 'System::Data::OracleClient::OracleConnection' : marked as obsolete
+                 Message: 'OracleConnection has been deprecated. http://go.microsoft.com/fwlink/?LinkID=144260'
+     1>c:\users\joey\desktop\c++\yuzhu_isaac_ui\yuzhu_isaac_ui\userMenu.h(26): warning C4947: 'System::Data::OracleClient::OracleConnection' : marked as obsolete
+                 Message: 'OracleConnection has been deprecated. http://go.microsoft.com/fwlink/?LinkID=144260'
+     1>c:\users\joey\desktop\c++\yuzhu_isaac_ui\yuzhu_isaac_ui\userMenu.h(34): warning C4947: 'System::Data::OracleClient::OracleConnection' : marked as obsolete
+                 Message: 'OracleConnection has been deprecated. http://go.microsoft.com/fwlink/?LinkID=144260'
+     1>c:\users\joey\desktop\c++\yuzhu_isaac_ui\yuzhu_isaac_ui\userMenu.h(147): warning C4947: 'System::Data::OracleClient::OracleCommand' : marked as obsolete
+                 Message: 'OracleCommand has been deprecated. http://go.microsoft.com/fwlink/?LinkID=144260'
+     1>c:\users\joey\desktop\c++\yuzhu_isaac_ui\yuzhu_isaac_ui\userMenu.h(147): warning C4996: 'System::Data::OracleClient::OracleConnection::CreateCommand': was declared deprecated
+                 c:\program files\reference assemblies\microsoft\framework\.netframework\v4.0\system.data.oracleclient.dll : see declaration of 'System::Data::OracleClient::OracleConnection::CreateCommand'
+     1>c:\users\joey\desktop\c++\yuzhu_isaac_ui\yuzhu_isaac_ui\userMenu.h(151): warning C4996: 'System::Data::OracleClient::OracleCommand::ExecuteReader': was declared deprecated
+                 c:\program files\reference assemblies\microsoft\framework\.netframework\v4.0\system.data.oracleclient.dll : see declaration of 'System::Data::OracleClient::OracleCommand::ExecuteReader'
+     1>c:\users\joey\desktop\c++\yuzhu_isaac_ui\yuzhu_isaac_ui\AdminMenu.h(25): warning C4947: 'System::Data::OracleClient::OracleConnection' : marked as obsolete
+                 Message: 'OracleConnection has been deprecated. http://go.microsoft.com/fwlink/?LinkID=144260'
+     1>c:\users\joey\desktop\c++\yuzhu_isaac_ui\yuzhu_isaac_ui\AdminMenu.h(25): warning C4947: 'System::Data::OracleClient::OracleConnection' : marked as obsolete
+                 Message: 'OracleConnection has been deprecated. http://go.microsoft.com/fwlink/?LinkID=144260'
+     1>c:\users\joey\desktop\c++\yuzhu_isaac_ui\yuzhu_isaac_ui\AdminMenu.h(32): warning C4947: 'System::Data::OracleClient::OracleConnection' : marked as obsolete
+                 Message: 'OracleConnection has been deprecated. http://go.microsoft.com/fwlink/?LinkID=144260'
+     1>c:\users\joey\desktop\c++\yuzhu_isaac_ui\yuzhu_isaac_ui\AdminMenu.h(118): warning C4947: 'System::Data::OracleClient::OracleCommand' : marked as obsolete
+                 Message: 'OracleCommand has been deprecated. http://go.microsoft.com/fwlink/?LinkID=144260'
+     1>c:\users\joey\desktop\c++\yuzhu_isaac_ui\yuzhu_isaac_ui\AdminMenu.h(118): warning C4996: 'System::Data::OracleClient::OracleConnection::CreateCommand': was declared deprecated
+                 c:\program files\reference assemblies\microsoft\framework\.netframework\v4.0\system.data.oracleclient.dll : see declaration of 'System::Data::OracleClient::OracleConnection::CreateCommand'
+     1>c:\users\joey\desktop\c++\yuzhu_isaac_ui\yuzhu_isaac_ui\AdminMenu.h(122): warning C4996: 'System::Data::OracleClient::OracleCommand::ExecuteReader': was declared deprecated
+                 c:\program files\reference assemblies\microsoft\framework\.netframework\v4.0\system.data.oracleclient.dll : see declaration of 'System::Data::OracleClient::OracleCommand::ExecuteReader'
+     1>c:\users\joey\desktop\c++\yuzhu_isaac_ui\yuzhu_isaac_ui\LogIn.h(151): warning C4947: 'System::Data::OracleClient::OracleConnection' : marked as obsolete
+                 Message: 'OracleConnection has been deprecated. http://go.microsoft.com/fwlink/?LinkID=144260'
+     1>c:\users\joey\desktop\c++\yuzhu_isaac_ui\yuzhu_isaac_ui\LogIn.h(155): warning C4947: 'System::Data::OracleClient::OracleConnection' : marked as obsolete
+                 Message: 'OracleConnection has been deprecated. http://go.microsoft.com/fwlink/?LinkID=144260'
+     1>c:\users\joey\desktop\c++\yuzhu_isaac_ui\yuzhu_isaac_ui\LogIn.h(155): warning C4996: 'System::Data::OracleClient::OracleConnection::OracleConnection': was declared deprecated
+                 c:\program files\reference assemblies\microsoft\framework\.netframework\v4.0\system.data.oracleclient.dll : see declaration of 'System::Data::OracleClient::OracleConnection::OracleConnection'
+     1>c:\users\joey\desktop\c++\yuzhu_isaac_ui\yuzhu_isaac_ui\LogIn.h(156): warning C4996: 'System::Data::OracleClient::OracleConnection::Open': was declared deprecated
+                 c:\program files\reference assemblies\microsoft\framework\.netframework\v4.0\system.data.oracleclient.dll : see declaration of 'System::Data::OracleClient::OracleConnection::Open'
+     1>c:\users\joey\desktop\c++\yuzhu_isaac_ui\yuzhu_isaac_ui\LogIn.h(156): warning C4996: 'System::Data::OracleClient::OracleConnection::Open': was declared deprecated
+                 c:\program files\reference assemblies\microsoft\framework\.netframework\v4.0\system.data.oracleclient.dll : see declaration of 'System::Data::OracleClient::OracleConnection::Open'
+     1>c:\users\joey\desktop\c++\yuzhu_isaac_ui\yuzhu_isaac_ui\LogIn.h(158): warning C4947: 'System::Data::OracleClient::OracleCommand' : marked as obsolete
+                 Message: 'OracleCommand has been deprecated. http://go.microsoft.com/fwlink/?LinkID=144260'
+     1>c:\users\joey\desktop\c++\yuzhu_isaac_ui\yuzhu_isaac_ui\LogIn.h(158): warning C4996: 'System::Data::OracleClient::OracleConnection::CreateCommand': was declared deprecated
+                 c:\program files\reference assemblies\microsoft\framework\.netframework\v4.0\system.data.oracleclient.dll : see declaration of 'System::Data::OracleClient::OracleConnection::CreateCommand'
+         userMenu.cpp
+     1>c:\users\joey\desktop\c++\yuzhu_isaac_ui\yuzhu_isaac_ui\userMenu.h(26): warning C4947: 'System::Data::OracleClient::OracleConnection' : marked as obsolete
+                 Message: 'OracleConnection has been deprecated. http://go.microsoft.com/fwlink/?LinkID=144260'
+     1>c:\users\joey\desktop\c++\yuzhu_isaac_ui\yuzhu_isaac_ui\userMenu.h(26): warning C4947: 'System::Data::OracleClient::OracleConnection' : marked as obsolete
+                 Message: 'OracleConnection has been deprecated. http://go.microsoft.com/fwlink/?LinkID=144260'
+     1>c:\users\joey\desktop\c++\yuzhu_isaac_ui\yuzhu_isaac_ui\userMenu.h(34): warning C4947: 'System::Data::OracleClient::OracleConnection' : marked as obsolete
+                 Message: 'OracleConnection has been deprecated. http://go.microsoft.com/fwlink/?LinkID=144260'
+     1>c:\users\joey\desktop\c++\yuzhu_isaac_ui\yuzhu_isaac_ui\userMenu.h(147): warning C4947: 'System::Data::OracleClient::OracleCommand' : marked as obsolete
+                 Message: 'OracleCommand has been deprecated. http://go.microsoft.com/fwlink/?LinkID=144260'
+     1>c:\users\joey\desktop\c++\yuzhu_isaac_ui\yuzhu_isaac_ui\userMenu.h(147): warning C4996: 'System::Data::OracleClient::OracleConnection::CreateCommand': was declared deprecated
+                 c:\program files\reference assemblies\microsoft\framework\.netframework\v4.0\system.data.oracleclient.dll : see declaration of 'System::Data::OracleClient::OracleConnection::CreateCommand'
+     1>c:\users\joey\desktop\c++\yuzhu_isaac_ui\yuzhu_isaac_ui\userMenu.h(151): warning C4996: 'System::Data::OracleClient::OracleCommand::ExecuteReader': was declared deprecated
+                 c:\program files\reference assemblies\microsoft\framework\.netframework\v4.0\system.data.oracleclient.dll : see declaration of 'System::Data::OracleClient::OracleCommand::ExecuteReader'
+         yuzhu_isaac_UI.cpp
+     1>c:\users\joey\desktop\c++\yuzhu_isaac_ui\yuzhu_isaac_ui\userMenu.h(26): warning C4947: 'System::Data::OracleClient::OracleConnection' : marked as obsolete
+                 Message: 'OracleConnection has been deprecated. http://go.microsoft.com/fwlink/?LinkID=144260'
+     1>c:\users\joey\desktop\c++\yuzhu_isaac_ui\yuzhu_isaac_ui\userMenu.h(26): warning C4947: 'System::Data::OracleClient::OracleConnection' : marked as obsolete
+                 Message: 'OracleConnection has been deprecated. http://go.microsoft.com/fwlink/?LinkID=144260'
+     1>c:\users\joey\desktop\c++\yuzhu_isaac_ui\yuzhu_isaac_ui\userMenu.h(34): warning C4947: 'System::Data::OracleClient::OracleConnection' : marked as obsolete
+                 Message: 'OracleConnection has been deprecated. http://go.microsoft.com/fwlink/?LinkID=144260'
+     1>c:\users\joey\desktop\c++\yuzhu_isaac_ui\yuzhu_isaac_ui\userMenu.h(147): warning C4947: 'System::Data::OracleClient::OracleCommand' : marked as obsolete
+                 Message: 'OracleCommand has been deprecated. http://go.microsoft.com/fwlink/?LinkID=144260'
+     1>c:\users\joey\desktop\c++\yuzhu_isaac_ui\yuzhu_isaac_ui\userMenu.h(147): warning C4996: 'System::Data::OracleClient::OracleConnection::CreateCommand': was declared deprecated
+                 c:\program files\reference assemblies\microsoft\framework\.netframework\v4.0\system.data.oracleclient.dll : see declaration of 'System::Data::OracleClient::OracleConnection::CreateCommand'
+     1>c:\users\joey\desktop\c++\yuzhu_isaac_ui\yuzhu_isaac_ui\userMenu.h(151): warning C4996: 'System::Data::OracleClient::OracleCommand::ExecuteReader': was declared deprecated
+                 c:\program files\reference assemblies\microsoft\framework\.netframework\v4.0\system.data.oracleclient.dll : see declaration of 'System::Data::OracleClient::OracleCommand::ExecuteReader'
+     1>c:\users\joey\desktop\c++\yuzhu_isaac_ui\yuzhu_isaac_ui\AdminMenu.h(25): warning C4947: 'System::Data::OracleClient::OracleConnection' : marked as obsolete
+                 Message: 'OracleConnection has been deprecated. http://go.microsoft.com/fwlink/?LinkID=144260'
+     1>c:\users\joey\desktop\c++\yuzhu_isaac_ui\yuzhu_isaac_ui\AdminMenu.h(25): warning C4947: 'System::Data::OracleClient::OracleConnection' : marked as obsolete
+                 Message: 'OracleConnection has been deprecated. http://go.microsoft.com/fwlink/?LinkID=144260'
+     1>c:\users\joey\desktop\c++\yuzhu_isaac_ui\yuzhu_isaac_ui\AdminMenu.h(32): warning C4947: 'System::Data::OracleClient::OracleConnection' : marked as obsolete
+                 Message: 'OracleConnection has been deprecated. http://go.microsoft.com/fwlink/?LinkID=144260'
+     1>c:\users\joey\desktop\c++\yuzhu_isaac_ui\yuzhu_isaac_ui\AdminMenu.h(118): warning C4947: 'System::Data::OracleClient::OracleCommand' : marked as obsolete
+                 Message: 'OracleCommand has been deprecated. http://go.microsoft.com/fwlink/?LinkID=144260'
+     1>c:\users\joey\desktop\c++\yuzhu_isaac_ui\yuzhu_isaac_ui\AdminMenu.h(118): warning C4996: 'System::Data::OracleClient::OracleConnection::CreateCommand': was declared deprecated
+                 c:\program files\reference assemblies\microsoft\framework\.netframework\v4.0\system.data.oracleclient.dll : see declaration of 'System::Data::OracleClient::OracleConnection::CreateCommand'
+     1>c:\users\joey\desktop\c++\yuzhu_isaac_ui\yuzhu_isaac_ui\AdminMenu.h(122): warning C4996: 'System::Data::OracleClient::OracleCommand::ExecuteReader': was declared deprecated
+                 c:\program files\reference assemblies\microsoft\framework\.netframework\v4.0\system.data.oracleclient.dll : see declaration of 'System::Data::OracleClient::OracleCommand::ExecuteReader'
+     1>c:\users\joey\desktop\c++\yuzhu_isaac_ui\yuzhu_isaac_ui\LogIn.h(151): warning C4947: 'System::Data::OracleClient::OracleConnection' : marked as obsolete
+                 Message: 'OracleConnection has been deprecated. http://go.microsoft.com/fwlink/?LinkID=144260'
+     1>c:\users\joey\desktop\c++\yuzhu_isaac_ui\yuzhu_isaac_ui\LogIn.h(155): warning C4947: 'System::Data::OracleClient::OracleConnection' : marked as obsolete
+                 Message: 'OracleConnection has been deprecated. http://go.microsoft.com/fwlink/?LinkID=144260'
+     1>c:\users\joey\desktop\c++\yuzhu_isaac_ui\yuzhu_isaac_ui\LogIn.h(155): warning C4996: 'System::Data::OracleClient::OracleConnection::OracleConnection': was declared deprecated
+                 c:\program files\reference assemblies\microsoft\framework\.netframework\v4.0\system.data.oracleclient.dll : see declaration of 'System::Data::OracleClient::OracleConnection::OracleConnection'
+     1>c:\users\joey\desktop\c++\yuzhu_isaac_ui\yuzhu_isaac_ui\LogIn.h(156): warning C4996: 'System::Data::OracleClient::OracleConnection::Open': was declared deprecated
+                 c:\program files\reference assemblies\microsoft\framework\.netframework\v4.0\system.data.oracleclient.dll : see declaration of 'System::Data::OracleClient::OracleConnection::Open'
+     1>c:\users\joey\desktop\c++\yuzhu_isaac_ui\yuzhu_isaac_ui\LogIn.h(156): warning C4996: 'System::Data::OracleClient::OracleConnection::Open': was declared deprecated
+                 c:\program files\reference assemblies\microsoft\framework\.netframework\v4.0\system.data.oracleclient.dll : see declaration of 'System::Data::OracleClient::OracleConnection::Open'
+     1>c:\users\joey\desktop\c++\yuzhu_isaac_ui\yuzhu_isaac_ui\LogIn.h(158): warning C4947: 'System::Data::OracleClient::OracleCommand' : marked as obsolete
+                 Message: 'OracleCommand has been deprecated. http://go.microsoft.com/fwlink/?LinkID=144260'
+     1>c:\users\joey\desktop\c++\yuzhu_isaac_ui\yuzhu_isaac_ui\LogIn.h(158): warning C4996: 'System::Data::OracleClient::OracleConnection::CreateCommand': was declared deprecated
+                 c:\program files\reference assemblies\microsoft\framework\.netframework\v4.0\system.data.oracleclient.dll : see declaration of 'System::Data::OracleClient::OracleConnection::CreateCommand'
+         Generating Code...
+         All outputs are up-to-date.
+       CoreResGen:
+         "C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\NETFX 4.0 Tools\resgen.exe" /useSourcePath /r:"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Core.dll" /r:"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Data.dll" /r:"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Data.OracleClient.dll" /r:"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.dll" /r:"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Drawing.dll" /r:"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Windows.Forms.dll" /r:"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Xml.dll" /compile userMenu.resx,Debug\yuzhu_isaac_UI.userMenu.resources
+         Processing resource file "userMenu.resx" into "Debug\yuzhu_isaac_UI.userMenu.resources".
+       ResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         D:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\joey\Desktop\c++\yuzhu_isaac_UI\Debug\yuzhu_isaac_UI.exe" /INCREMENTAL /NOLOGO /ASSEMBLYRESOURCE:Debug\yuzhu_isaac_UI.AdminMenu.resources /ASSEMBLYRESOURCE:Debug\yuzhu_isaac_UI.Form1.resources /ASSEMBLYRESOURCE:Debug\yuzhu_isaac_UI.LogIn.resources /ASSEMBLYRESOURCE:Debug\yuzhu_isaac_UI.userMenu.resources /MANIFEST /ManifestFile:"Debug\yuzhu_isaac_UI.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\joey\Desktop\c++\yuzhu_isaac_UI\Debug\yuzhu_isaac_UI.pdb" /ASSEMBLYDEBUG /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"main" /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 Debug\app.res
+         Debug\AdminMenu.obj
+         Debug\AssemblyInfo.obj
+         Debug\LogIn.obj
+         Debug\stdafx.obj
+         Debug\userMenu.obj
+         Debug\yuzhu_isaac_UI.obj
+         "Debug\.NETFramework,Version=v4.0.AssemblyAttributes.obj"
+         yuzhu_isaac_UI.vcxproj -> C:\Users\joey\Desktop\c++\yuzhu_isaac_UI\Debug\yuzhu_isaac_UI.exe
+       Manifest:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\joey\Desktop\c++\yuzhu_isaac_UI\Debug\yuzhu_isaac_UI.exe;#1" /manifest Debug\yuzhu_isaac_UI.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Debug\yuzhu_isaac_UI.unsuccessfulbuild".
+         Touching "Debug\yuzhu_isaac_UI.lastbuildstate".
+     1>Done Building Project "C:\Users\joey\Desktop\c++\yuzhu_isaac_UI\yuzhu_isaac_UI\yuzhu_isaac_UI.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.47
